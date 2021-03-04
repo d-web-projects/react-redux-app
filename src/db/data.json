@@ -1,0 +1,48 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "anmol",
+      "gender": "male",
+      "post": "developer"
+    },
+    {
+      "id": 2,
+      "name": "suhas",
+      "gender": "male",
+      "post": "team lead"
+    },
+    {
+      "name": "priya",
+      "gender": "female",
+      "post": "team lead",
+      "id": 3
+    },
+    {
+      "name": "sonu",
+      "gender": "male",
+      "post": "team lead",
+      "id": 4
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "Golang",
+      "author": "James",
+      "year": 2018
+    },
+    {
+      "id": 2,
+      "title": "ReactJS",
+      "author": "peters",
+      "year": "2017"
+    },
+    {
+      "id": 3,
+      "title": "HTML",
+      "author": "Anmol",
+      "year": "2010"
+    }
+  ]
+}
